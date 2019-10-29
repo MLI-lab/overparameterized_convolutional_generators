@@ -1,11 +1,8 @@
 # Denoising and Regularization via Exploiting the Structural Bias of Convolutional Generators
 
-
-Reinhard Heckel∗ and Mahdi Soltanolkotabi†
-
 This repository provides code for reproducing the figures in the  paper:
 
-**``Denoising and Regularization via Exploiting the Structural Bias of Convolutional Generators''**, by Reinhard Heckel and Mahdi Soltanolkotabi. Contact: [mailto:reinhard.heckel@gmail.com](reinhard.heckel@gmail.com)
+**``Denoising and Regularization via Exploiting the Structural Bias of Convolutional Generators''**, by Reinhard Heckel and Mahdi Soltanolkotabi. Contact: [reinhard.heckel@gmail.com](reinhard.heckel@gmail.com)
 
 The paper is available online [here](http://www.reinhardheckel.com/papers/overparameterized_convolutional_generators.pdf).
 
