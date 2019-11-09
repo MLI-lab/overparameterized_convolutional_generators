@@ -9,6 +9,7 @@ The paper is available online [here](http://www.reinhardheckel.com/papers/overpa
 ## Organization
 
 - Figure 1: denoising_MSE_curves.ipynb
+- Figure 2: denoising_performance_example.ipynb, denoising_bm3d_example.ipynb  
 - Figure 4,8: noise_vs_img_fitting_different_architectures.ipynb
 - Figure 5: linear_least_squares_selective_fitting_warmup.ipynb
 - Figure 6: kernels_and_associated_dual_kernels.ipynb
@@ -41,7 +42,7 @@ A small part of the code compares performance to the deep image prior. This part
 @article{heckel_denoising_2019,
     author    = {Reinhard Heckel and Mahdi Soltanolkotabi},
     title     = {Denoising and Regularization via Exploiting the Structural Bias of Convolutional Generators},
-    journal   = {arXiv:?},
+    journal   = {arXiv:1910.14634 [cs.LG]},
     year      = {2019}
 }
 ```
