@@ -16,7 +16,7 @@ The paper is available online [here](http://www.reinhardheckel.com/papers/overpa
 - Figure 7: Jacobian_multi_layer_deep_decoder.ipynb
 - Figure 10: image_fitted_faster_than_noise_on_imgnet.ipynb
 - Figure 12: Jacobian_inner_product_noisevsimg.ipynb
-
+- Table 1: denoising_imagenet_selected100_paper.ipynb, denoising_bm3d_imagenet_selected100_paper.ipynb 
 
 ## Installation
 
